@@ -1,4 +1,4 @@
-#  Atividade - DS1M-B 2025
+#  Atividade - DS1M-A 2025
 Repositório para atividades realizadas durante as aulas de linguagem de programação.
 
 ## Atividades:
