@@ -58,6 +58,8 @@ Perfeito! Adaptar para esse estilo de checklist é uma excelente ideia para os c
 
 ### Temas:
 
+Clique [aqui](https://reliable-yttrium-924.notion.site/Atividades-Figma-88af74a199f84cbe9cf27ccdf79daf2b) para escolher um tema.
+
 | Aluno                                     | Tema |
 |------------------------------------------|------|
 | ANDRÉ ROBERTO TAVARES                    |      |
