@@ -58,21 +58,22 @@ Com o contexto estabelecido, suas tarefas serão as seguintes:
 
 Clique [aqui](https://reliable-yttrium-924.notion.site/Atividades-Figma-88af74a199f84cbe9cf27ccdf79daf2b) para escolher um tema.
 
+
 | Aluno                                     | Tema |
 |------------------------------------------|------|
-| ANDRÉ ROBERTO TAVARES                    |      |
-| ARTHUR ANGELUS ANDRADE DE ALMEIDA       |      |
-| BRENO OLIVEIRA ASSIS REIS               |      |
-| EDVAN ALVES DE OLIVEIRA                 |      |
-| ENZO FELIX CARRILHO                     |      |
-| GABRIEL JOSÉ SANTOS DA SILVA            |      |
+| ANDRÉ ROBERTO TAVARES                    |  Valorant    |
+| ARTHUR ANGELUS ANDRADE DE ALMEIDA       |  Iron MAN    |
+| BRENO OLIVEIRA ASSIS REIS               |  APEX    |
+| EDVAN ALVES DE OLIVEIRA                 |  Portfolio    |
+| ENZO FELIX CARRILHO                     | Nike     |
+| GABRIEL JOSÉ SANTOS DA SILVA            | Coffe    |
 | GABRIEL LACERDA CORREIA                 |      |
-| GABRYEL FILLIPE CAVALCANTI DA SILVA     |      |
-| GUILHERME MOREIRA DE SOUZA              |      |
-| GUILHERME VIANA DE SOUZA                |      |
+| GABRYEL FILLIPE CAVALCANTI DA SILVA     | E-Bike   |
+| GUILHERME MOREIRA DE SOUZA              | Riot Games     |
+| GUILHERME VIANA DE SOUZA                | Camera     |
 | GUSTAVO MATHIAS FLOR DOROTÉIO           |      |
-| JOÃO PEDRO TEODORO NUNES CORREIA        |      |
-| JOÃO VICTOR SANTOS DE MORAES            |      |
+| JOÃO PEDRO TEODORO NUNES CORREIA        | Porsche     |
+| JOÃO VICTOR SANTOS DE MORAES            | Bike    |
 | KAUAN LOPES PEREIRA                     |      |
 
 ---
