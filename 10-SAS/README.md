@@ -78,6 +78,8 @@ Perfeito! Adaptar para esse estilo de checklist é uma excelente ideia para os c
 ---
 ### Entrega Final:
 
+DATA: 09/06/2025 até as 12h
+
 Lembre-se que esta atividade é uma simulação de um cenário de trabalho real, onde sua capacidade de adaptar, codificar e entregar um produto responsivo será importante. **Sua entrega final será o link do seu repositório no GitHub**, contendo todo o código-fonte, o `README.md` documentado e o site publicado via GitHub Pages.
 
 **Boa sorte e mostre todo o seu potencial!**
