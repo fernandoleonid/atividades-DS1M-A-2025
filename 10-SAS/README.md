@@ -57,23 +57,23 @@ Perfeito! Adaptar para esse estilo de checklist é uma excelente ideia para os c
 ---
 
 ### Temas:
-| Aluno                                     | Tema | Concluído |
-|-------------------------------------------|------|-----------|
-| ANDRÉ ROBERTO TAVARES                     |      | * [ ]       |
-| ARTHUR ANGELUS ANDRADE DE ALMEIDA        |      | *[ ]       |
-| BRENO OLIVEIRA ASSIS REIS                |      | *[ ]       |
-| EDVAN ALVES DE OLIVEIRA                  |      | *[ ]       |
-| ENZO FELIX CARRILHO                      |      | [ ]       |
-| GABRIEL JOSÉ SANTOS DA SILVA             |      | [ ]       |
-| GABRIEL LACERDA CORREIA                  |      | [ ]       |
-| GABRYEL FILLIPE CAVALCANTI DA SILVA      |      | [ ]       |
-| GUILHERME MOREIRA DE SOUZA              |      | [ ]       |
-| GUILHERME VIANA DE SOUZA                |      | [ ]       |
-| GUSTAVO MATHIAS FLOR DOROTÉIO            |      | [ ]       |
-| JOÃO PEDRO TEODORO NUNES CORREIA         |      | [ ]       |
-| JOÃO VICTOR SANTOS DE MORAES            |      | [ ]       |
-| KAUAN LOPES PEREIRA                      |      | [ ]       |
 
+| Aluno                                     | Tema |
+|------------------------------------------|------|
+| ANDRÉ ROBERTO TAVARES                    |      |
+| ARTHUR ANGELUS ANDRADE DE ALMEIDA       |      |
+| BRENO OLIVEIRA ASSIS REIS               |      |
+| EDVAN ALVES DE OLIVEIRA                 |      |
+| ENZO FELIX CARRILHO                     |      |
+| GABRIEL JOSÉ SANTOS DA SILVA            |      |
+| GABRIEL LACERDA CORREIA                 |      |
+| GABRYEL FILLIPE CAVALCANTI DA SILVA     |      |
+| GUILHERME MOREIRA DE SOUZA              |      |
+| GUILHERME VIANA DE SOUZA                |      |
+| GUSTAVO MATHIAS FLOR DOROTÉIO           |      |
+| JOÃO PEDRO TEODORO NUNES CORREIA        |      |
+| JOÃO VICTOR SANTOS DE MORAES            |      |
+| KAUAN LOPES PEREIRA                     |      |
 
 ---
 ### Entrega Final:
