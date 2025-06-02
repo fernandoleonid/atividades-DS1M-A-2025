@@ -17,8 +17,6 @@ Com o contexto estabelecido, suas tarefas serão as seguintes:
 
 * **Enviar o Link do Repositório no Issue Correspondente:** Após a conclusão de todas as etapas, compartilhe o **link do seu repositório GitHub** no *issue* específico criado para esta atividade.
 
-Perfeito! Adaptar para esse estilo de checklist é uma excelente ideia para os critérios de avaliação. Vamos lá, focado nas suas tarefas e capacidades.
-
 ---
 
 ## Critérios de Avaliação:
